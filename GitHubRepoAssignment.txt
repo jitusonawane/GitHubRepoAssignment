@@ -1,0 +1,12 @@
+1) created repo GitHubRepoAssignment.txt
+2)mkdir GitHubRepoAssignment.txt
+3) cd GitHubRepoAssignment.txt
+4) git init
+5) echo "# GitHubRepoAssignment.txt" >> README.md
+6)git add .
+7)git commint -m "
+8) git push -u origin master
+
+
+
+
